@@ -1,3 +1,3 @@
 # AnimalKingdom
 
-![ClassDiagram](/Users/shiyangxiao/Downloads/ClassDiagram.png)
+![ClassDiagram](/Users/shiyangxiao/AnimalKingdom/ClassDiagram.png)
