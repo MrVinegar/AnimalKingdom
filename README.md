@@ -1,3 +1,5 @@
 # AnimalKingdom
 
-![Class Diagram](classDiagram_final.png)
+
+
+![Class Diagram](image/classDiagram_final.png)
