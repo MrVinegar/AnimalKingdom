@@ -1,6 +1,10 @@
 package com.company;
 
-public class Chicken extends Bird implements Fly,Herbivore{
+import com.company.impl.Bird;
+import com.company.interfaces.Fly;
+import com.company.interfaces.Herbivore;
+
+public class Chicken extends Bird implements Fly, Herbivore {
     private String name;
     private int size;
 

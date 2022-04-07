@@ -1,6 +1,10 @@
 package com.company;
 
-public class Lion extends Mammal implements Jump,Carnivore {
+import com.company.impl.Mammal;
+import com.company.interfaces.Carnivore;
+import com.company.interfaces.Jump;
+
+public class Lion extends Mammal implements Jump, Carnivore {
     private String name;
     private int size;
 

@@ -1,6 +1,10 @@
 package com.company;
 
-public class Shark extends Fish implements Carnivore,ColdBlooded {
+import com.company.impl.Fish;
+import com.company.interfaces.Carnivore;
+import com.company.interfaces.ColdBlooded;
+
+public class Shark extends Fish implements Carnivore, ColdBlooded {
 
     private String name;
     private int size;

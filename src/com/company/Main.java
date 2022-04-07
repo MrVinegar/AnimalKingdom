@@ -1,5 +1,8 @@
 package com.company;
 
+import com.company.impl.Animal;
+import com.company.interfaces.*;
+
 import java.util.ArrayList;
 import java.util.List;
 
